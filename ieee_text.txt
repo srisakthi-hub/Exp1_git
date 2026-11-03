@@ -38,3 +38,26 @@ products and services. These systems allow greater
 transparency, control, and good performance [2]. IOT has 
 several automation applications like smart home, smart 
 parking, smart roads, smart lighting etc
+
+RELATED WORKS
+In the recent years, many efforts have been taken to 
+automate the existing streetlight system. For any intelligent 
+streetlight system, it should operate in a systematic way to 
+maximize the quality and productivity. So by implementing a 
+more reliable system can cut off a major street lighting 
+expenses and reduce human effort as well. But many methods 
+are still operating with traditional light sources, therefore, it 
+may reduce the human effort but the energy wastage and light 
+pollution still exist.  
+Manish Kumar at el [12] in the year 2016 published their 
+paper regarding streetlight controlling using Zigbee wireless 
+module. They included LDR, microcontroller, and a 
+transmission module. Zigbee allows wireless communication 
+with the lamp module. The system consists of two LDR 
+sensors to examine the day-night variations and lamp health 
+conditions. The results from the LDR is transferred to the 
+microcontroller after processing the data and further into the 
+transmission module. The wireless Zigbee sends the data to 
+the control centre to monitor and operate each streetlight.  The 
+system uses Zigbee network and the range of Zigbee is very 
+short [7]
