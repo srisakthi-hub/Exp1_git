@@ -1,0 +1,21 @@
+ Vaishali Gupta, Krutika Thakur, Ritesh Thakur, “Based
+Smart Street Lights” International Journal of Research
+(IJR), Volume 2, Issue 10, October.
+[2] J.Arthi, W.Lydiapreethi, B. Gunasundari,” IOT BASED
+SMART LED STREET LIGHTING SYSTEM” IJRTI |
+Volume 2, Issue 4 | ISSN: 2456-3315.
+[3] Snehal Bhosale, Komal, Dipali, Pallavi, “IOT BASED
+DYNAMIC CONTROL OF STREET LIGHTS FOR
+SMART CITY” International Research Journal of
+Engineering and Technology (IRJET),Volume: 04 Issue:
+05 May.
+[4] Shreesh Mishra, Shivakant Gupta, Santosh Singh,
+Tripuresh Tiwari, Anand Mohan, “ARDUINO BASED
+LED STREET LIGHT AUTO INTENSITY CONTROL
+SYSTEM” International Journal of Advanced Research
+in Engineering,  April-2016 Volume 3, Issue-4.
+[5] Sayali Arkade, Akshada Mohite, Rutuj, Vikas, “IoT
+Based Street Lights For Smart City” International
+Journal for Research in Applied Science & Engineering
+Technology (IJRASET), Volume 4 Issue XII, December
+2016
