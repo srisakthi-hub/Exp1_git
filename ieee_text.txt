@@ -25,3 +25,16 @@ work is implemented using a programmed Arduino board for
 providing the required intensity of light at various times. The 
 proposed work has achieved a better performance compared to the 
 existing system.
+
+
+I.
+INTRODUCTION
+IOT is the network of physical devices that allows the 
+devices to communicate with each other. IOT allows remote 
+sensing and control over the devices. It is an advanced 
+automation and analytics system which uses artificial 
+intelligence technology to deliver advanced and automated 
+products and services. These systems allow greater 
+transparency, control, and good performance [2]. IOT has 
+several automation applications like smart home, smart 
+parking, smart roads, smart lighting etc
